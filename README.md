@@ -80,32 +80,11 @@ Incluye:
 
 ---
 
-## 🧩 Capturas de las Hojas y Gráficos
-
-| Categoría | Visualización |
-|----------|----------------|
-| Género   | ![Gráfico Género](Imágenes/grafico-genero.png) |
-| Edad vs Educación | ![Edad vs Educación](Imágenes/grafico-age-education.png) |
-| Evaluación vs Educación | ![Desempeño](Imágenes/grafico-performance.png) |
-| Edad vs Salario | ![Edad vs Salario](Imágenes/grafico-salary.png) |
-| Tabla Detallada | ![Detalle Empleados](Imágenes/dashboard-details.png) |
-
-> 🔄 Puedes navegar entre las hojas del dashboard para obtener análisis más específicos.
-
----
-
-## 🚀 Enlace al Proyecto
-
-📌 [Ver en Tableau Public](#) *(próximamente)*  
-📌 [Repositorio con el código de generación del dataset](#) *(opcional si lo subís)*
-
----
-
 ## ✍️ Autor
 
 **Octavio Alvarez**  
 📫 [LinkedIn](https://linkedin.com/in/octavio-alvarez-6a229b223)  
-🔧 Inspirado en [Data With Baraa](https://www.youtube.com/@DataWithBaraa)
+
 
 ---
 
