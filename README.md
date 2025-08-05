@@ -51,7 +51,7 @@ Incluye:
 
 ### 2. **Vista Detallada (HR | Details)**
 
-<img src="RUTA_DE_LA_IMAGEN" alt="Texto alternativo" width="600">
+<img src="Imagenes/Dashboard_hr2.png" alt="Texto alternativo" width="600">
 
 
 Incluye:
