@@ -34,7 +34,7 @@ El tablero está dividido en **dos vistas principales**:
 
 ### 1. **Resumen General (HR | Summary)**
 
-![Dashboard General](Imágenes/dashboard-summary.png)
+<img src="RUTA_DE_LA_IMAGEN" alt="Texto alternativo" width="600">
 
 Incluye:
 - Total de empleados activos, contratados y dados de baja
@@ -51,7 +51,8 @@ Incluye:
 
 ### 2. **Vista Detallada (HR | Details)**
 
-![Dashboard Detallado](Imágenes/dashboard-details.png)
+<img src="RUTA_DE_LA_IMAGEN" alt="Texto alternativo" width="600">
+
 
 Incluye:
 - Tabla completa de empleados con información clave
